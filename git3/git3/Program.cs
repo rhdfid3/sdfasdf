@@ -16,7 +16,7 @@ namespace git3
             Console.WriteLine("3");
             Console.WriteLine("3");
             Console.WriteLine("5");
-            Console.WriteLine("3");
+            Console.WriteLine("3"); Console.WriteLine("5");
         }
     }
 }
